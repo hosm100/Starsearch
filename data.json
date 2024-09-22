@@ -1442,7 +1442,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Afterburner-S",
+      "FullName": "{OF} Afterburner-S",
       "Volume": 1000,
       "ObjectName": "AfterburnerOfficer",
       "Value": 2400,
@@ -1506,7 +1506,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Overdrive-M",
+      "FullName": "{OF} Overdrive-M",
       "Volume": 1000,
       "ObjectName": "OverdriveMOfficer",
       "Value": 3600,
@@ -1554,7 +1554,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Overdrive-L",
+      "FullName": "{OF} Overdrive-L",
       "Volume": 1000,
       "ObjectName": "OverdriveLOfficer",
       "Value": 4800,
@@ -1604,7 +1604,7 @@
   [
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Sensor Jammer",
+      "FullName": "{OF} Sensor Jammer",
       "Volume": 1000,
       "ObjectName": "JammerMWOfficer",
       "Value": 3600,
@@ -1612,7 +1612,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Stasis Field",
+      "FullName": "{OF} Stasis Field",
       "Volume": 1000,
       "ObjectName": "StasisWOfficer",
       "Value": 2400,
@@ -1660,7 +1660,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Disruptor",
+      "FullName": "{OF} Disruptor",
       "Volume": 1000,
       "ObjectName": "DisruptorAbOfficer",
       "Value": 2400,
@@ -1700,7 +1700,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Light Sensor Jammer",
+      "FullName": "{OF} Light Sensor Jammer",
       "Volume": 1000,
       "ObjectName": "JammerWOfficer",
       "Value": 2400,
@@ -1828,7 +1828,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Heavy Sensor Jammer",
+      "FullName": "{OF} Heavy Sensor Jammer",
       "Volume": 1000,
       "ObjectName": "JammerLWOfficer",
       "Value": 4800,
@@ -1886,7 +1886,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Overclocker",
+      "FullName": "{OF} Overclocker",
       "Volume": 1000,
       "ObjectName": "TurretRateWOfficer",
       "Value": 7500,
@@ -1926,7 +1926,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Servo Surge",
+      "FullName": "{OF} Servo Surge",
       "Volume": 1000,
       "ObjectName": "TurretTurnWOfficer",
       "Value": 7500,
@@ -1936,7 +1936,7 @@
   [
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Heavy Hull Repairer",
+      "FullName": "{OF} Heavy Hull Repairer",
       "Volume": 1000,
       "ObjectName": "HullRepairLWOfficer",
       "Value": 4800,
@@ -1944,7 +1944,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Medium Shield Repairer",
+      "FullName": "{OF} Medium Shield Repairer",
       "Volume": 1000,
       "ObjectName": "ShieldRepairMWOfficer",
       "Value": 3600,
@@ -1952,7 +1952,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Medium Hull Repairer",
+      "FullName": "{OF} Medium Hull Repairer",
       "Volume": 1000,
       "ObjectName": "HullRepairMWOfficer",
       "Value": 3600,
@@ -2008,7 +2008,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Light Hull Repairer",
+      "FullName": "{OF} Light Hull Repairer",
       "Volume": 1000,
       "ObjectName": "HullRepairWOfficer",
       "Value": 2400,
@@ -2048,7 +2048,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Light Shield Repairer",
+      "FullName": "{OF} Light Shield Repairer",
       "Volume": 1000,
       "ObjectName": "ShieldRepairWOfficer",
       "Value": 2400,
@@ -2192,7 +2192,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Heavy Shield Repairer",
+      "FullName": "{OF} Heavy Shield Repairer",
       "Volume": 1000,
       "ObjectName": "ShieldRepairLWOfficer",
       "Value": 4800,
@@ -2234,7 +2234,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Hull Booster",
+      "FullName": "{OF} Hull Booster",
       "Volume": 1000,
       "ObjectName": "HullBoostWOfficer",
       "Value": 7500,
@@ -2274,7 +2274,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Shield Booster",
+      "FullName": "{OF} Shield Booster",
       "Volume": 1000,
       "ObjectName": "ShieldBoostWOfficer",
       "Value": 7500,
@@ -2316,7 +2316,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Energy Booster",
+      "FullName": "{OF} Energy Booster",
       "Volume": 1000,
       "ObjectName": "EnergyBoostWOfficer",
       "Value": 7500,
@@ -8356,7 +8356,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Afterburner-S",
+      "FullName": "{OF} Afterburner-S",
       "Volume": 1000,
       "ObjectName": "AfterburnerOfficer",
       "Value": 2400,
@@ -8420,7 +8420,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Overdrive-M",
+      "FullName": "{OF} Overdrive-M",
       "Volume": 1000,
       "ObjectName": "OverdriveMOfficer",
       "Value": 3600,
@@ -8468,7 +8468,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Overdrive-L",
+      "FullName": "{OF} Overdrive-L",
       "Volume": 1000,
       "ObjectName": "OverdriveLOfficer",
       "Value": 4800,
@@ -8518,7 +8518,7 @@
   [
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Sensor Jammer",
+      "FullName": "{OF} Sensor Jammer",
       "Volume": 1000,
       "ObjectName": "JammerMWOfficer",
       "Value": 3600,
@@ -8526,7 +8526,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Stasis Field",
+      "FullName": "{OF} Stasis Field",
       "Volume": 1000,
       "ObjectName": "StasisWOfficer",
       "Value": 2400,
@@ -8574,7 +8574,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Disruptor",
+      "FullName": "{OF} Disruptor",
       "Volume": 1000,
       "ObjectName": "DisruptorAbOfficer",
       "Value": 2400,
@@ -8614,7 +8614,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Light Sensor Jammer",
+      "FullName": "{OF} Light Sensor Jammer",
       "Volume": 1000,
       "ObjectName": "JammerWOfficer",
       "Value": 2400,
@@ -8742,7 +8742,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Heavy Sensor Jammer",
+      "FullName": "{OF} Heavy Sensor Jammer",
       "Volume": 1000,
       "ObjectName": "JammerLWOfficer",
       "Value": 4800,
@@ -8800,7 +8800,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Overclocker",
+      "FullName": "{OF} Overclocker",
       "Volume": 1000,
       "ObjectName": "TurretRateWOfficer",
       "Value": 7500,
@@ -8840,7 +8840,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Servo Surge",
+      "FullName": "{OF} Servo Surge",
       "Volume": 1000,
       "ObjectName": "TurretTurnWOfficer",
       "Value": 7500,
@@ -8850,7 +8850,7 @@
   [
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Heavy Hull Repairer",
+      "FullName": "{OF} Heavy Hull Repairer",
       "Volume": 1000,
       "ObjectName": "HullRepairLWOfficer",
       "Value": 4800,
@@ -8858,7 +8858,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Medium Shield Repairer",
+      "FullName": "{OF} Medium Shield Repairer",
       "Volume": 1000,
       "ObjectName": "ShieldRepairMWOfficer",
       "Value": 3600,
@@ -8866,7 +8866,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Medium Hull Repairer",
+      "FullName": "{OF} Medium Hull Repairer",
       "Volume": 1000,
       "ObjectName": "HullRepairMWOfficer",
       "Value": 3600,
@@ -8922,7 +8922,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Light Hull Repairer",
+      "FullName": "{OF} Light Hull Repairer",
       "Volume": 1000,
       "ObjectName": "HullRepairWOfficer",
       "Value": 2400,
@@ -8962,7 +8962,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Light Shield Repairer",
+      "FullName": "{OF} Light Shield Repairer",
       "Volume": 1000,
       "ObjectName": "ShieldRepairWOfficer",
       "Value": 2400,
@@ -9106,7 +9106,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Heavy Shield Repairer",
+      "FullName": "{OF} Heavy Shield Repairer",
       "Volume": 1000,
       "ObjectName": "ShieldRepairLWOfficer",
       "Value": 4800,
@@ -9148,7 +9148,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Hull Booster",
+      "FullName": "{OF} Hull Booster",
       "Volume": 1000,
       "ObjectName": "HullBoostWOfficer",
       "Value": 7500,
@@ -9188,7 +9188,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Shield Booster",
+      "FullName": "{OF} Shield Booster",
       "Volume": 1000,
       "ObjectName": "ShieldBoostWOfficer",
       "Value": 7500,
@@ -9230,7 +9230,7 @@
     },
     {
       "Type": "Module, Subsystem",
-      "FullName": "{OF}'s Energy Booster",
+      "FullName": "{OF} Energy Booster",
       "Volume": 1000,
       "ObjectName": "EnergyBoostWOfficer",
       "Value": 7500,
